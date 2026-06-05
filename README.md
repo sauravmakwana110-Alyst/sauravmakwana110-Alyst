@@ -10,6 +10,7 @@ Currently open to **entry-level data analyst, business analyst, and operations a
 
 | Project | What it does | Stack |
 |---|---|---|
+| [Financial KPI Performance Analysis](https://github.com/sauravmakwana110-Alyst/financial-kpi-analysis) | Normalized 3-table schema tracking revenue, expenses & headcount across 5 business units; window functions, MoM/YoY trends, z-score anomaly detection & SQL regression forecasting | SQL, PostgreSQL |
 | [NYC Flights Delay Prediction](https://github.com/sauravmakwana110-Alyst/nyc-flights-delay-prediction) | Predicts arrival delay using multiple linear regression + stepwise selection | R |
 | [UK Accident Forecasting](https://github.com/sauravmakwana110-Alyst/uk-accident-forecasting) | ARIMA + STL decomposition on UK road accident time series | R |
 | [Cola Survey EDA](https://github.com/sauravmakwana110-Alyst/cola-survey-eda) | Full applied stats pipeline — EDA, probability, inference, regression | R |
